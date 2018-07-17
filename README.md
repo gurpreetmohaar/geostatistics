@@ -9,3 +9,5 @@ Parameters:
 3) overlap: this determines the jump or the slide overlap
 4) slide_along: data will be sorted in this direction and uncertainity will only be modelled in this direction
 5) num_clusters: this determines number of states in markov chain
+
+To execute the code and see the print statements, open main_pipeline.ipynb
