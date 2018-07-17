@@ -1,5 +1,5 @@
 filepath: "ZaldivarBH.txt"
-window_size: 40
+window_size: 100
 overlap: 10
-slide_along: "EAST"
-num_clusters: 10
+slide_along: "ELEV"
+num_clusters: 6
